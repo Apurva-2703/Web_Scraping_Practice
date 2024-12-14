@@ -1,13 +1,13 @@
-**My First Data Scraping Project: Stock Data Scraping and Visualization (TSLA and GME)**
+# My First Data Scraping Project: Stock Data Scraping and Visualization (TSLA and GME)
 
 This is a data scraping project that uses the yfinance library together with matplotlib, BeautifulSoup, pandas, and requests in order to extract and visualize stock data from TSLA and GME. This project was completed as part of a capstone course for the IBM Data Science Professional Certificate. 
 
-**Project aims**
+## Project aims
 1. Scrape historical stock data for TSLA and GME using the `yfinance` library.
 2. Scrape revenue data from the official websites of TSLA and AMD using `requests` and `BeautifulSoup`.
 3. Process and visualize the data using `pandas` and `matplotlib`.
 
-**Libraries used**
+## Libraries used
 
 `yfinance`:
 - Extracted TSLA and GME historical stock price data from yfinance library.
